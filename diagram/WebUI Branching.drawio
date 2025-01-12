@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.4">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
-    <mxGraphModel dx="1496" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="uWUnNED6HEl2aK5fdaIb-86" value="dev/D8DW-001" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" parent="1" vertex="1">
           <mxGeometry x="85.5" y="445" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-87" value="&lt;div&gt;This is the develop branch.&amp;nbsp;&lt;/div&gt;&lt;div&gt;This branch is the base branch for the sprint.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" parent="1" vertex="1">
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-87" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;This is the develop branch.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;This branch is the base branch for the sprint.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="85.75" y="381" width="294.25" height="56" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uWUnNED6HEl2aK5fdaIb-88" target="uWUnNED6HEl2aK5fdaIb-82">
@@ -68,8 +68,8 @@
         <mxCell id="uWUnNED6HEl2aK5fdaIb-89" value="The release branch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="380.25" y="301" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-90" value="&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;The main branch.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;The master branch is a branch that represents the code that is already live in production.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="82.25" y="211" width="317.75" height="70" as="geometry" />
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-90" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;The main branch.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;The master branch is a branch that represents the code that is already live in production.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="82.25" y="211" width="257.75" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-91" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -359,14 +359,11 @@
             <mxPoint x="1030" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-78" value="&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237)); font-size: 9px;&quot;&gt;If the deployment schedule coincides with a feature release, you can merge/cherry-pick the hotfix commit to the release branch.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="289" width="150" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-80" value="config/D8DW-001" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="170.5" y="535" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-81" value="Branch config is created if it is needed for certain needs and special condition, for example there is a config that does&#39;t need to be deployed to production or a config for tracing errors in the code." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
-          <mxGeometry x="170.5" y="547" width="429.5" height="73" as="geometry" />
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-81" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Branch config is created if it is needed for certain needs and special condition, for example there is a config that does&#39;t need to be deployed to production or a config for tracing errors in the code.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=0;fontColor=#009900;" vertex="1" parent="1">
+          <mxGeometry x="170.5" y="547" width="329.5" height="73" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-82" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
