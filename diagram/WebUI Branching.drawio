@@ -152,7 +152,7 @@
         <mxCell id="uWUnNED6HEl2aK5fdaIb-69" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=#B3FF66;fontColor=#000000;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="304" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#80FF00,#006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-43" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#ff8000, #006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="388" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="aIjFoCdPs0r_8MJ_KKIO-44" edge="1">
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=light-dark(#c0c0c0, #005100);gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=light-dark(#808080, #005100);gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="463" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="aIjFoCdPs0r_8MJ_KKIO-43" edge="1">
@@ -186,7 +186,7 @@
             <mxPoint x="647" y="402.65999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-82" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#80FF00,#006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="uWUnNED6HEl2aK5fdaIb-82" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#ff8000, #006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="388" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-70" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=#B3FF66;fontColor=#000000;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -299,10 +299,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#80FF00,#006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#ff8000, #006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="968" y="388.5" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-53" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=light-dark(#c0c0c0, #005100);gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-53" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=light-dark(#808080, #005100);gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="898" y="463" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-91" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;entryX=0.592;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aIjFoCdPs0r_8MJ_KKIO-55" target="aIjFoCdPs0r_8MJ_KKIO-53" edge="1">
@@ -315,7 +315,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#80FF00,#006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;gradientColor=none;strokeColor=#000000;fillColor=light-dark(#ff8000, #006000);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="818" y="388.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-94" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="aIjFoCdPs0r_8MJ_KKIO-30" edge="1">
@@ -364,13 +364,13 @@
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-103" value="master" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#80ffff, #ededed);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="92.25" y="542" width="127.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-104" value="feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#80FF00,#006000);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-104" value="feature" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ff8000, #006000);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="681" y="542" width="127.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-105" value="hotfix" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=light-dark(#000000, #295a0d);fillColor=light-dark(#ff0000, #4a890c);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="681" y="610" width="127.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-108" value="config" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c0c0c0, #005100);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-108" value="&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(237, 237, 237));&quot;&gt;config&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#808080, #005100);strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="681" y="677" width="127.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-110" value="&lt;div align=&quot;left&quot;&gt;The master branch is a branch that represents the code that is already live in production.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
