@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.5">
   <diagram id="yPxyJZ8AM_hMuL3Unpa9" name="complex gitflow">
-    <mxGraphModel dx="1018" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,9 +34,6 @@
             <mxPoint x="471.75" y="296" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-20" value="release/sprint-01-web" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="380.25" y="224" width="219.75" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=4;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" source="uWUnNED6HEl2aK5fdaIb-69" target="uWUnNED6HEl2aK5fdaIb-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -66,12 +63,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="168" y="324" as="sourcePoint" />
             <mxPoint x="291" y="323.84" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uWUnNED6HEl2aK5fdaIb-93" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="564.37" y="236.76" as="sourcePoint" />
-            <mxPoint x="644.37" y="236.76" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uWUnNED6HEl2aK5fdaIb-103" value="Tag: release/sprint-0-web" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -149,7 +140,7 @@
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=4;shape=mxgraph.flowchart.on-page_reference;plain-purple;strokeColor=default;fillColor=#B3FF66;fontColor=#000000;gradientColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="908.25" y="304" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-37" value="Tag: sprint/sprint-01-web" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-37" value="Tag: sprint-01-web-v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="519.5" y="433" width="187.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeWidth=4;fontFamily=Courier New;fontColor=#009900;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" target="uWUnNED6HEl2aK5fdaIb-69" edge="1">
@@ -251,7 +242,7 @@
             <mxPoint x="1051.81" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-73" value="Tag: sprint/sprint-02-web" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-73" value="Tag: sprint-02-web-v1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="963.12" y="425.5" width="187.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-74" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;exitX=0.5;exitY=0;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" edge="1">
@@ -262,9 +253,6 @@
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-75" value="release/sprint-02-web" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="1060" y="342" width="187.75" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-76" value="hotfix/D8DW-002" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="797" y="183" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-80" value="config/D8DW-001" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;fontStyle=1;fontFamily=Courier New;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="170.5" y="478" width="240" height="20" as="geometry" />
@@ -411,6 +399,18 @@
         </mxCell>
         <mxCell id="aIjFoCdPs0r_8MJ_KKIO-119" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;In the front-end/webUI repository, ignore the &lt;b&gt;master &lt;/b&gt;and &lt;b&gt;develop &lt;/b&gt;branches. Instead, use the &lt;b&gt;dockerize/master&lt;/b&gt; and &lt;b&gt;dockerize/develop&lt;/b&gt; branches..&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;Before merging a feature branch into the &lt;code&gt;&lt;b&gt;develop&lt;/b&gt;&lt;/code&gt; branch, it must be reviewed by other team members.&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;To merge into the &lt;b&gt;develop,&lt;/b&gt; all unit tests must pass, line coverage must be at least 80% (100% for new services), and SonarQube analysis must be complete. &lt;br&gt;To show that a review has been done, the reviewer should leave a comment on the merge request, like &quot;lgtm&quot; (looks good to me) or &quot;approved.&quot;&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;Release branches are always created from the &lt;code&gt;&lt;b&gt;master&lt;/b&gt;&lt;/code&gt; branch as their starting point. You can merge changes from the &lt;code&gt;develop&lt;/code&gt; branch into the release branch or use cherry-pick to move specific commits to the release branch&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;If a bug is found in live production, a &lt;strong&gt;hotfix branch&lt;/strong&gt; must be created based on the &lt;b&gt;&lt;code&gt;master&lt;/code&gt; branch.&lt;/b&gt; This branch is specifically used to fix issues directly in production.&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;The &lt;strong&gt;hotfix branch&lt;/strong&gt; will also be used for deployment to production after the fix is complete.&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;After completing the hotfix, make sure to merge the hotfix commit into the &lt;code&gt;develop&lt;/code&gt; branch. Alternatively, you can create a new branch from &lt;code&gt;develop&lt;/code&gt; and cherry-pick the hotfix commit from the &lt;b&gt;&lt;code&gt;hotfix&lt;/code&gt; branch.&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;i&gt;Merging into the &lt;b&gt;&lt;code&gt;master&lt;/code&gt; branch&lt;/b&gt; is only allowed from the &lt;b&gt;release branch&lt;/b&gt;. This should only happen after a successful deployment with no rollbacks required.&lt;/i&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="774" width="1000" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bznqx1ZaJ8hXulGmFJcP-2" value="" style="endArrow=classic;html=1;strokeWidth=1;fontFamily=Courier New;fontColor=#009900;exitX=0.5;exitY=0;exitDx=0;exitDy=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691.0050000000003" y="373.5" as="sourcePoint" />
+            <mxPoint x="690.5" y="292.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bznqx1ZaJ8hXulGmFJcP-3" value="release/sprint-02-web" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="372.5" width="187.75" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aIjFoCdPs0r_8MJ_KKIO-76" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;hotfix/D8DW-xxx&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="781" y="189" width="127.1" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
